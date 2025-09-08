@@ -69,4 +69,5 @@ _____
 
 
 There you go! Your Assistant should now be working with Local-AI through Home-LLM!
+
  - Make sure that the entities you want to control are exposted to Assist within Home-Assistant!
